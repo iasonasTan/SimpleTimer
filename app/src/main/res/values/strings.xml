@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Timer</string>
+    <string name="timer">Timer</string>
+    <string name="start">Start</string>
+    <string name="time_is_up">Time\'s UP!</string>
+    <string name="time_left">Time Left: </string>
+    <string name="stop">Stop</string>
+    <string name="time_is_running">Time\'s Running!</string>
+</resources>
