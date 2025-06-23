@@ -28,10 +28,10 @@
     </LinearLayout>
 
     <Button
-        android:layout_marginTop="70dp"
-        android:layout_below="@id/time_picker"
+        android:layout_toRightOf="@id/time_picker"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
         android:layout_centerInParent="true"
         android:id="@+id/start_button"
         android:text="@string/start" />

@@ -7,8 +7,8 @@
         android:id="@+id/remaining_time_textview"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:layout_marginHorizontal="40dp"
-        android:layout_marginBottom="20dp"
+        android:layout_marginHorizontal="100dp"
+        android:layout_marginBottom="10dp"
         android:paddingTop="10dp"
         android:textSize="24sp"
         android:textAlignment="center"
@@ -20,25 +20,6 @@
         android:layout_centerInParent="true"
         android:layout_width="wrap_content"
         android:text="@string/stop"
-        android:layout_height="wrap_content" />
-
-    <Button
-        android:id="@+id/resume_button"
-        android:layout_below="@id/stop_button"
-        android:layout_centerInParent="true"
-        android:visibility="gone"
-        android:layout_width="wrap_content"
-        android:text="@string/resume"
-        android:layout_marginVertical="15dp"
-        android:layout_height="wrap_content" />
-
-    <Button
-        android:id="@+id/pause_button"
-        android:layout_below="@id/resume_button"
-        android:layout_centerInParent="true"
-        android:layout_width="wrap_content"
-        android:visibility="gone"
-        android:text="@string/pause"
         android:layout_height="wrap_content" />
 
 </RelativeLayout>

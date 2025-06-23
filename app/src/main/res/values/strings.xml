@@ -6,4 +6,6 @@
     <string name="time_left">Time Left: </string>
     <string name="stop">Stop</string>
     <string name="time_is_running">Time\'s Running!</string>
+    <string name="resume">Resume</string>
+    <string name="pause">Pause</string>
 </resources>
